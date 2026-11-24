@@ -25,6 +25,7 @@
 // Picked: the Sourcify/claim-portal angle. Every word is a real detail
 // of how this agent works, the punchline ("without ever opening the
 // page") lands at the very end, and the failing actually happened.
+// Verified: 132 characters, one line, UTF-8 — inside the 1–200 gate.
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
